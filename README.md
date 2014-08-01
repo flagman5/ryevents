@@ -1,7 +1,7 @@
 ryevents
 ========
 
-Codeigniter based application for Resume management for career fairs.
+Codeigniter based application for Resume management for career fairs. Written in 2012
 
 The application was written using Codeigniter 2.1.3
 
